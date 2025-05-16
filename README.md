@@ -14,5 +14,7 @@ Este repositorio contiene todas las piezas fabricables del Robot, y extras como 
 - Motores: [Motores JSUMO CORE 400RPM]
 - Batería: [Tattu 3S 450mAh]
 
-#Pre Render del chasis final del robot.
+# Pre Render del chasis final del robot.
+
+
 ![Screenshot_841](https://github.com/user-attachments/assets/e0c7cb9d-5dd1-4956-b724-d9ff564175f5)
